@@ -36,5 +36,18 @@
 - Money Market Borrowing (MMR)
 - Repurchase Agreements (RP)
 
+### Central Bank
 
+### Four Prices of Money
 
+- Par
+- Interest Rate
+- Exchange Rate
+- Price Level
+
+### Hierarchy of Financial Instruments
+- Gold -> Cuurency -> Bank Deposits -> Credits/ Loans
+
+### Hierarchy of Financial Institutions
+
+- Central Banks -> Bank Systems -> Private Sectors
