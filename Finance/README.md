@@ -57,4 +57,9 @@
 - Scarcity of (Ultimate) Money
 - Elasticity of Derivative Credit
 
+### Market Makers
 
+- Central Banks
+  - Exchange Rate
+  - Maintain Par (Financial Stability)
+  - Manipulating Short-Term Interest Rates
