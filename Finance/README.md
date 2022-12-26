@@ -18,5 +18,23 @@
 
 
 
+## Economics of Money and Bank
+
+### Banks
+
+- Liabilities vs. Assets
+  - Deposit accounts, other borrowing, net worth
+  - Loans, securities, cash reserves
+  
+- Solvency
+- Liquidity (cash reserves)
+
+### Shadow Banks
+- Residential Mortgage Bank Securities (RMBS)
+- Interest Rate Swap (IRS)
+- Credit Risk Swap (CDS)
+- Money Market Borrowing (MMR)
+- Repurchase Agreements (RP)
+
 
 
