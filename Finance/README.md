@@ -51,3 +51,10 @@
 ### Hierarchy of Financial Institutions
 
 - Central Banks -> Bank Systems -> Private Sectors
+
+### Two Principles 
+
+- Scarcity of (Ultimate) Money
+- Elasticity of Derivative Credit
+
+
