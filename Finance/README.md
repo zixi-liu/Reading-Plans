@@ -62,4 +62,5 @@
 - Central Banks
   - Exchange Rate
   - Maintain Par (Financial Stability)
-  - Manipulating Short-Term Interest Rates
+  - Manipulating Short-Term Interest Rates (Fed fund's rate, overnight rate) -> Term Structure of Interest Rates
+  - Monetary policy is about creating an artifitial hierarchy of money and credit
