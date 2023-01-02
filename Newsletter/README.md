@@ -8,4 +8,4 @@
 - Challenge #1: The Lean Startup encourages agnostic experimentation instead of starting with a compelling strategy.
 - Challenge #2: The Lean Startup’s focus on MVPs leads to failing too fast.
 - Challenge #3: The Lean Startup leads to incremental products.
-- Challenge #4: The Lean Startup overemphasizes a focus on product over deliberate growth.
+- Challenge #4: The Lean Startup overemphasizes a focus on product over deliberate growth. (Every great product innovation is typically coupled with a thoughtful approach to distribution.)
